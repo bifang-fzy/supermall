@@ -1,5 +1,5 @@
 <template>
-    <div id="publicTabbar">
+    <div>
         <tabBar>
             <tabBarItem path='/home' activeColor="#e25858">
                 <img slot="item-icon" src="~assets/img/tabbar/home.png" alt="" />
