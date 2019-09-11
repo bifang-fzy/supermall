@@ -26,14 +26,14 @@
 </template>
 
 <script>
-import tabBar from './tabBar'
-import tabBarItem from './tabBarItem'
+import TabBar from './TabBar'
+import TabBarItem from './TabBarItem'
 
 export default {
-  name: 'publicTabbar',
+  name: 'PublicTabbar',
   components: {
-    tabBar,
-    tabBarItem
+    TabBar,
+    TabBarItem
   }
 }
 </script>
